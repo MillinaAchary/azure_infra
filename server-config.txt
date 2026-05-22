@@ -1,4 +1,4 @@
-Windows VM : web-prod-01
+Windows VM : millina-web-prod-01
 Size : Standard DS1_v2
 Region : East US
-Owner : Dev Ops Team
+Owner : Developement and Operations Team

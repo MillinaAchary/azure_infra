@@ -3,3 +3,4 @@ Size : Standard DS1_v2
 Region : East US
 Owner : Developement and Operations Team
 Lead : Millina Achary
+Number of Members in the Team : 5
